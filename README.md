@@ -20,7 +20,7 @@ The repository includes code files, notebooks, and PDF documents used in the lec
 - `bias_polinimol_regression.ipynb`: Jupyter notebook on polynomial regression and bias-variance tradeoff.
 - `cross_validation_polinomial_regression.ipynb`: Jupyter notebook explaining cross-validation in polynomial regression.
 
-## Instructor
+## Instructors
 
 - **Name:** Hale Sert, Başak Ekinci
 
